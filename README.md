@@ -4,10 +4,11 @@
 ## Description
  An application that can write, save and delete notes. Uses express backend and saves and retrieve's notes from a front end. 
  
- ## App Deployment
+ ## App is deployed on Heroku
  https://sc-note-taker.herokuapp.com/
 
  ## App Demo
+ Part 1: Click the below Gif to go to the full sized Youtube Video demonstrating the functionality. <br>
   [![Gif of Note Taker Generator Functionality](./public/assets/NoteTaker.gif)](https://youtu.be/7By4bvWIjyY/link "Link to full sized video")
  
 This project was created using:  Javascript 
